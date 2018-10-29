@@ -47,7 +47,8 @@ let buttons = [
 let container = {
   color: "black",
   texture: "smooth",
-  material: "plastic"
+  material: "plastic",
+  appearance: "good condition"
 }
 
 let remote = {
