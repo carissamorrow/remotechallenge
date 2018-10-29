@@ -36,8 +36,3 @@ let remote = {
 }
 
 console.log(remote.buttons);
-
-// let externals = {
-//   buttons: 12,
-
-// }
